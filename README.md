@@ -3,6 +3,7 @@
 A professional **Java Desktop Application** designed to streamline stock control, product tracking, and sales management. This project utilizes **Java Swing** for the interface and **JDBC** for database connectivity, ensuring a reliable and user-friendly experience for small to medium-sized businesses.
 
 ---
+```mermaid
 erDiagram
     %% Entities
     USER {
@@ -32,6 +33,7 @@ erDiagram
     %% Relationships
     USER ||--o{ PRODUCT : "manages"
     SUPPLIER ||--o{ PRODUCT : "supplies"
+```
 
 ---
 
