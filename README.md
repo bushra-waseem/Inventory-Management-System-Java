@@ -42,7 +42,7 @@ erDiagram
 ### 1. Main Interface
 The primary dashboard where users can add items (Push) and view the current inventory list.
 <p align="center">
-  <img src="screenshots/01%20main%20interface.png" width="450">
+  <img src="screenshots/01%20main%20interface.png" width="300">
 </p>
 
 ### 2. Remove Item (Pop)
