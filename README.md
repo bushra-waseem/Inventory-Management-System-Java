@@ -60,7 +60,7 @@ The "Peek" functionality allows users to see the top-most item in the inventory 
 ### 4. Error Handling
 The system includes validation to ensure only valid numeric data is entered for quantity and price.
 <p align="center">
-  <img src="screenshots/04%20error%20detect.png" width="350">
+  <img src="screenshots/04%20error%20detect.png" width="300">
 </p>
 
 ---
